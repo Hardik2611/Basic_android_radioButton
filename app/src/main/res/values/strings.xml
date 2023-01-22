@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HardikGoyal_radio</string>
+    <string name="made">Made</string>
+    <string name="by">by</string>
+    <string name="name">Hardik Goyal</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="msg1">Yes</string>
+    <string name="msg2">No</string>
+    <string name="msg3">Laptop</string>
+    <string name="msg4">Desktop</string>
+    <string name="msg5">Tablet</string>
+    <string name="msg6">\u003E 50000</string>
+    <string name="msg7">\u003E \u003D 25000</string>
+    <string name="msg8">\u003C 10000</string>
+</resources>
